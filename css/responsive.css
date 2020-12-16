@@ -1,0 +1,368 @@
+@media (max-width: 575px) {
+  .footer_section {
+    height: 100% !important;
+    line-height: unset;
+    text-align: center;
+    padding: 25px;
+  }
+  .footer_links {
+    text-align: center !important;
+  }
+  .footer_links ul li {
+    display: block !important;
+    list-style-type: inherit !important;
+    margin: 18px 0;
+  }
+
+  .contact_btn {
+    text-align: center !important;
+  }
+  .contact_btn .sign_up_btn {
+    margin: auto !important;
+  }
+  .sign_up_btn {
+    box-shadow: none !important;
+    outline: none !important;
+    height: 60px;
+    line-height: 60px;
+    width: 205px;
+    border-radius: 35px;
+    background-color: #27ae60;
+    color: #fff;
+    font-size: 18px;
+    border: none !important;
+  }
+  #map {
+    height: 250px;
+    width: 100%;
+  }
+  .contact_details p {
+    font-size: 14px;
+    color: #484848;
+    width: 170px;
+  }
+  .contact_details h2 {
+    font-size: 25px;
+    color: #27ad60;
+  }
+  .subs_msg h4 {
+    color: #fff;
+    font-size: 25px;
+    font-weight: 700;
+    text-align: center;
+  }
+  .submit_btn {
+    text-align: center;
+  }
+  .subs_bg {
+    height: 220px !important;
+    width: 100% !important;
+    background-size: cover !important;
+    background-position: center !important;
+    background-attachment: fixed !important;
+    position: relative;
+    padding: 25px 0;
+  }
+  .blog_read_btn a {
+    display: block;
+    height: 60px;
+    line-height: 60px;
+    width: 205px;
+    font-size: 18px;
+    color: #fff;
+    border-radius: 35px;
+    font-weight: 700;
+    background-color: #27ad60;
+    margin: auto;
+  }
+  .blog_details p {
+    font-size: 12px;
+    color: #484848;
+    width: 100%;
+    margin: auto;
+  }
+  .blog_details h4 {
+    font-size: 16px;
+    font-weight: 700;
+    color: #111111;
+    width: 100%;
+    margin: auto;
+    padding: 15px 0;
+  }
+  .blog_img {
+    height: 245px;
+    width: 100%;
+    overflow: hidden;
+  }
+  .all_header h2 {
+    font-size: 22px;
+    color: #111111;
+    font-weight: 700;
+  }
+  .slick-slide .client_img .client_img_overlay {
+    background: rgba(0, 0, 0, 0) !important;
+  }
+  .client_img {
+    margin: auto;
+  }
+  .slide_for_style {
+    padding-top: 15px;
+  }
+  .client_message p {
+    font-size: 14px;
+    color: #484848;
+  }
+  .client_info h4 {
+    font-size: 25px;
+    font-weight: 700;
+    color: #111111;
+  }
+  .client_info h5 {
+    font-size: 14px;
+    font-weight: 700;
+    color: #111111;
+  }
+  .program_card_body {
+    width: 100%;
+  }
+  .program_overlay_content p {
+    width: 100%;
+    font-size: 14px;
+    color: #fff;
+    margin: auto;
+  }
+  .teacher_mobile_slider .slick-dots li button {
+    height: 15px !important;
+    width: 15px !important;
+    border-radius: 50% !important;
+    color: transparent !important;
+    background-color: transparent !important;
+    border: 1px solid #484848 !important;
+  }
+  .teacher_mobile_slider .slick-dots {
+    position: absolute;
+    text-align: center;
+    bottom: -10px;
+    background: transparent !important;
+    left: 50%;
+    z-index: 3;
+    transform: translateX(-50%);
+  }
+  .teacher_mobile_slider .slick-dots li.slick-active {
+    background-color: #484848 !important;
+    height: 15px !important;
+    width: 15px !important;
+    border-radius: 50% !important;
+    border-color: transparent !important;
+    z-index: 2;
+  }
+  .teacher_details {
+    text-align: center;
+    padding: 15px 0;
+  }
+  .teacher_card_main {
+    width: 100%;
+  }
+  .teacher_details h4 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #111111;
+  }
+  .teacher_details p {
+    font-size: 16px;
+    font-weight: 700;
+    color: #27ae60;
+  }
+  .course_img {
+    height: 250px;
+    width: 100%;
+    overflow: hidden;
+  }
+  .course_card_content h2 {
+    font-size: 22px;
+    color: #1a1a1a;
+    font-weight: 700;
+  }
+  .course_card_content p {
+    font-size: 15px;
+    color: #484848;
+    width: 260px;
+  }
+  .course_card_content {
+    border-bottom: 3px solid #cfcfcf;
+    width: 100%;
+    padding: 15px 20px;
+  }
+  .course_content_body {
+    background-color: #f1f1f1;
+    width: 100%;
+    padding-bottom: 20px;
+  }
+  .course_join_btn {
+    text-align: center;
+    margin: auto;
+  }
+  .course_join_btn a {
+    display: block;
+    height: 60px;
+    line-height: 60px;
+    width: 100%;
+    border-radius: 30px;
+    font-size: 16px;
+  }
+  .course_join_btn {
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+  }
+  .course_details h4 {
+    position: relative;
+    color: #1a1a1a;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 8px 0;
+  }
+
+  .mobile_slider .slick-dots {
+    position: absolute;
+    text-align: center;
+    bottom: -20px;
+    background: transparent !important;
+    left: 50%;
+    z-index: 3;
+    transform: translateX(-50%);
+  }
+  .mobile_slider .slick-dots li button {
+    height: 15px !important;
+    width: 15px !important;
+    border-radius: 50% !important;
+    color: transparent !important;
+    background-color: transparent !important;
+    border: 1px solid #484848 !important;
+  }
+  .mobile_slider .slick-dots li.slick-active button {
+    border-color: #27ad60 !important;
+  }
+  .mobile_slider .slick-dots li.slick-active {
+    height: 15px !important;
+    width: 15px !important;
+    border-radius: 50% !important;
+  }
+  /* .course_content_body {
+    padding-bottom: 40px;
+  } */
+  .feature_card_content p {
+    font-size: 15px;
+    color: #484848;
+    width: 100%;
+    padding: 5px 20px;
+  }
+  .feature_card_content h2 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #111111;
+  }
+  .feature_icon {
+    margin: auto;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    text-align: center;
+    background-color: #fff;
+  }
+  .feature_icon h2 {
+    font-size: 55px !important;
+    line-height: 150px;
+    color: #27ad60;
+    display: block;
+  }
+  .edu_img {
+    height: 250px;
+    width: 100%;
+    overflow: hidden;
+    padding: 0 0px;
+  }
+  .edu_content h4 {
+    font-size: 24px;
+    color: #1a1a1a;
+    font-weight: 700;
+  }
+  .edu_content p {
+    font-size: 14px;
+    color: #1a1a1a;
+    width: 100%;
+    padding: 10px 0px;
+  }
+  .edu_content .learn {
+    padding: 10px 0px;
+    font-size: 16px !important;
+  }
+  .banner_content h2 {
+    color: #fff;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 1px;
+  }
+  .banner_content p {
+    font-size: 16px;
+    color: #fff;
+    margin-top: 18px;
+  }
+  .program_card_body {
+    width: 100%;
+  }
+
+  .program_img {
+    height: 250px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+  }
+
+  .next_arrow {
+    position: absolute;
+    top: 65%;
+    right: 18px;
+    transform: translateY(-50%);
+    cursor: pointer;
+    font-size: 25px;
+    color: #cfcfcf;
+  }
+
+  .prev_arrow {
+    position: absolute;
+    top: 65%;
+    left: 18px;
+    transform: translateY(-50%);
+    cursor: pointer;
+    font-size: 25px;
+    color: #cfcfcf;
+  }
+  .all_button a {
+    display: inline-block;
+    width: 195px;
+    height: 56px;
+    line-height: 56px;
+    color: #fff;
+    text-align: center;
+    border-radius: 30px;
+    background-color: #27ae61;
+    font-size: 18px;
+  }
+  .slick-dots li button {
+    height: 15px !important;
+    width: 15px !important;
+    border-radius: 50% !important;
+    color: transparent !important;
+    background-color: transparent !important;
+    border: 1px solid #fff !important;
+  }
+  .slick-dots li.slick-active {
+    background-color: #27ad60 !important;
+    height: 15px !important;
+    width: 15px !important;
+    border-radius: 50% !important;
+    border-color: transparent !important;
+    z-index: 2;
+  }
+}
